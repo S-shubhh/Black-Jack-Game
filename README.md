@@ -26,7 +26,7 @@ The objective of the game is to either get a **Blackjack** or have a sum of card
 
 Feel the thrill of the casino right in your browser. **Good luck**, and have fun playing **Blackjack**!
 
-![Blackjack](![image](https://github.com/S-shubhh/Black-Jack-Game/assets/95293686/1d14139b-ef7c-46b1-bf41-a2c8ab84b44b)
+![Blackjack](![image](https://github.com/S-shubhh/Black-Jack-Game/blob/main/Green.jpeg)
 )
 
 **Note:** This is a simplified version of Blackjack for demonstration purposes. In a real casino, the game has more rules and options. Enjoy your game!
